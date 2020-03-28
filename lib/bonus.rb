@@ -20,8 +20,8 @@ def bonus
    }
   }
 
- bonus[:montague][:hero][:status] = "dead"
- bonus[:montague][:heroine][:status] = "dead"
+ [:montague][:hero][:status] = "dead"
+ [:montague][:heroine][:status] = "dead"
 
   
 
